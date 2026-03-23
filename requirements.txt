@@ -1,0 +1,12 @@
+river
+spade
+aiokafka
+pandas
+fastapi
+uvicorn
+requests
+plotly
+scikit-learn
+requests
+streamlit
+plotly

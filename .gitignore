@@ -1,0 +1,28 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Custom logs and transient data
+agents_debug.log
+data/metrics.json
+*.log
+
+# Datasets (Large files)
+data/raw/
+
+# Agent Artifacts
+*.resolved
+*.md.resolved
+
+# Streamlit
+.streamlit/
